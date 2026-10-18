@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/deepmind/rlax/commit/036c859d6be16659db1dce7e4381431149a8eed3",
       "git:hexsha": "036c859d6be16659db1dce7e4381431149a8eed3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/deepmind/rlax/commit/33c3462ff9a5651404f24110af6e26298712d5dd",
